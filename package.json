@@ -1,0 +1,13 @@
+{
+  "name": "generator-jekyll",
+  "version": "0.1.0",
+  "description": "A Yeoman-Generator for simple Jekyll based projects e.g. microsites or online presentations",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "underscore.string": "^3.3.4",
+    "yeoman-generator": "^0.23.3",
+    "yosay": "^1.1.1"
+  }
+}

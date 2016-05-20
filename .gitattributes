@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# JS files must always use LF for tools to work
+*.js eol=lf
+
+# Other text based files too
+*.html eol=lf
+*.json eol=lf
+*.sass eol=lf
+*.md eol=lf
+*.yml eol=lf
